@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    background-image: url(nature.jpg);
+    background-size: cover;
+}
+.container{
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
